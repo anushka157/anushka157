@@ -1,6 +1,6 @@
 # Hi there, I'm Anushka Shrivastava! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x400)
+![Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
 
 ## 🚀 About Me
 I'm a **Data Analyst | Developer | Research Enthusiast** from Noida. Passionate about extracting insights from data, building scalable applications, and continuous learning.
@@ -11,15 +11,15 @@ I'm a **Data Analyst | Developer | Research Enthusiast** from Noida. Passionate 
 - 🤔 I’m looking for help with **Advanced ML & Deep Learning Concepts**
 - 💬 Ask me about **Data Analytics, Python, and Web Development**
 - 📫 How to reach me: **[anushkashrivastava1018@gmail.com](mailto:anushkashrivastava1018@gmail.com)**
-- ⚡ Fun fact: **I love sketching in my free time!**
+- 🌐 Check out my portfolio: **[My Portfolio](https://anushka157.github.io/My-Portfolio/)**
 
 ---
 
 ## 🌟 GitHub Stats
 
-![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushka157&show_icons=true&theme=radical)
+![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushka157&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anushka157&layout=compact&theme=radical)](https://github.com/anushka157)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anushka157&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anushka157)
 
 ---
 
