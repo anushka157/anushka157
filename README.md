@@ -3,7 +3,7 @@
 ![Profile Banner](https://via.placeholder.com/1200x400?text=Explore+My+Portfolio:+https://www.canva.com/design/DAGeJhxKzro/fQ7GYCBXoVHksCrPZsj3fA/edit)
 
 ## 🚀 About Me
-I'm a **Data Analyst | Developer | Research Enthusiast** from Noida. Passionate about extracting insights from data, building scalable applications, and continuous learning.
+I'm a **Data Analyst** from Noida. Passionate about extracting insights from data and continuous learning.
 
 - 🔭 I’m currently working on **Stock Market Data Analysis Project**
 - 🌱 I’m currently learning **Data Science, Machine Learning & Web Development**
