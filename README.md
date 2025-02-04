@@ -9,7 +9,7 @@ I'm a **Data Analyst | Developer | Research Enthusiast** from Noida. Passionate 
 - 🌱 I’m currently learning **Data Science, Machine Learning & Web Development**
 - 👯 I’m looking to collaborate on **Exciting Data & AI Projects**
 - 🤔 I’m looking for help with **Advanced ML & Deep Learning Concepts**
-- 💬 Ask me about **Data Analytics and Web Development**
+- 💬 Ask me about **Data Analytics, Python, and Web Development**
 - 📫 How to reach me: **[anushkashrivastava1018@gmail.com](mailto:anushkashrivastava1018@gmail.com)**
 - ⚡ Fun fact: **I love sketching in my free time!**
 
@@ -57,6 +57,12 @@ I'm a **Data Analyst | Developer | Research Enthusiast** from Noida. Passionate 
   </a>
   <a href="https://x.com/Anushka38999531">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.hackerrank.com/profile/anushkashrivast5">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+  <a href="https://leetcode.com/u/anushka_876/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
 </p>
 
