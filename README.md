@@ -1,4 +1,3 @@
-
 # Hi there, I'm Anushka Shrivastava! 👋
 
 ![Profile Banner](https://via.placeholder.com/1200x400)
@@ -12,7 +11,6 @@ I'm a **Data Analyst | Developer | Research Enthusiast** from Noida. Passionate 
 - 🤔 I’m looking for help with **Advanced ML & Deep Learning Concepts**
 - 💬 Ask me about **Data Analytics, Python, and Web Development**
 - 📫 How to reach me: **[anushkashrivastava1018@gmail.com](mailto:anushkashrivastava1018@gmail.com)**
-- 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I love sketching in my free time!**
 
 ---
