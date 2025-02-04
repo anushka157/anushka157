@@ -1,6 +1,6 @@
 # Hi there, I'm Anushka Shrivastava! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner]([https://via.placeholder.com/1200x400?text=Explore+My+Portfolio:+https://www.canva.com/design/DAGeJhxKzro/fQ7GYCBXoVHksCrPZsj3fA/edit](https://www.canva.com/design/DAGeJhxKzro/jrqJrKW6CyQ7s0LBeM6xIQ/view?utm_content=DAGeJhxKzro&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7dc6599d77))
 
 ## 🚀 About Me
 I'm a **Data Analyst | Developer | Research Enthusiast** from Noida. Passionate about extracting insights from data, building scalable applications, and continuous learning.
@@ -15,14 +15,6 @@ I'm a **Data Analyst | Developer | Research Enthusiast** from Noida. Passionate 
 
 ---
 
-## 🌟 GitHub Stats
-
-![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushka157&show_icons=true&theme=tokyonight&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anushka157&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anushka157)
-
----
-
 ## 📌 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -33,6 +25,7 @@ I'm a **Data Analyst | Developer | Research Enthusiast** from Noida. Passionate 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
 
 ---
@@ -46,6 +39,8 @@ I'm a **Data Analyst | Developer | Research Enthusiast** from Noida. Passionate 
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
 
 ---
@@ -63,6 +58,9 @@ I'm a **Data Analyst | Developer | Research Enthusiast** from Noida. Passionate 
   </a>
   <a href="https://leetcode.com/u/anushka_876/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://anushka157.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
