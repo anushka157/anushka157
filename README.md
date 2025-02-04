@@ -69,6 +69,7 @@ I'm a **Data Analyst | Research Enthusiast** from Noida. Passionate about extrac
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anushka157&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka157&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ⭐ **Let's connect and collaborate on awesome projects!** 🚀
