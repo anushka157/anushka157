@@ -6,9 +6,9 @@
 I'm a **Data Analyst | Research Enthusiast** from Noida. Passionate about extracting insights from data and continuous learning.
 
 - 🔭 I’m currently working on **Stock Market Data Analysis Project**
-- 🌱 I’m currently learning **Data Science, Machine Learning & Web Development**
-- 👯 I’m looking to collaborate on **Exciting Data & AI Projects**
-- 🤔 I’m looking for help with **Advanced ML & Deep Learning Concepts**
+- 🌱 Learning New Concepts **Data Science, Machine Learning & Web Development**
+- 👯 Looking to collaborate on **Exciting Data & AI Projects**
+- 🤔 Looking for help with **Advanced ML & Deep Learning Concepts**
 - 💬 Ask me about **Data Analytics, Python, and Web Development**
 - 📫 How to reach me: **[anushkashrivastava1018@gmail.com](mailto:anushkashrivastava1018@gmail.com)**
 - 🌐 Check out my portfolio: **[My Portfolio](https://anushka157.github.io/My-Portfolio/)**
