@@ -1,6 +1,6 @@
 # Hi there, I'm Anushka Shrivastava! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x400?text=Explore+My+Portfolio:+https://www.canva.com/design/DAGeJhxKzro/fQ7GYCBXoVHksCrPZsj3fA/edit)
+![Profile Banner]([https://via.placeholder.com/1200x400?text=Explore+My+Portfolio:+https://www.canva.com/design/DAGeJhxKzro/fQ7GYCBXoVHksCrPZsj3fA/edit](https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/BBWeBb8Ap3hhB4jMsDOiN.png))
 
 ## 🚀 About Me
 I'm a **Data Analyst | Research Enthusiast** from Noida. Passionate about extracting insights from data and continuous learning.
